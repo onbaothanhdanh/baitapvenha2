@@ -1,0 +1,37 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+th,
+td {
+    border: 1px solid #0a0909;
+    padding: 8px;
+    text-align: center;
+}
+
+.container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.left-div,
+.right-div {
+    width: 45%;
+    padding: 8px;
+}
+
+.right-div {
+    margin-right: 10px;
+    text-align: right;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.orange {
+    background-color: orange;
+}
