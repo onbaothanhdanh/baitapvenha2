@@ -16,7 +16,10 @@ td {
     display: flex;
     justify-content: space-between;
 }
-
+.container p{
+    color: blue;
+    
+}
 .left-div,
 .right-div {
     width: 45%;
